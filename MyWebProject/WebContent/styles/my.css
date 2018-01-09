@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+table {
+	font-family: Times New Roman;
+	font-size: 13pt;
+	font-weight: bold;
+	border-collapse: collapse;
+}
+
+td {
+	text-align: center;
+	padding: 0 7px 0 7px;
+}
